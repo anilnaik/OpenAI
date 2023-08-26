@@ -1,0 +1,4 @@
+langchain==2.25.1
+pytest==3.7.1
+pytest-django==3.3.3
+pluggy==0.7.1
